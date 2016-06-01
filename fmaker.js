@@ -504,7 +504,7 @@ $(document).ready(function(){
 document.documentElement.className = 'js';
 //add the jQuery click/show/hide behaviours:
 
-     $(".reply").click(function(){
+     $(".reply1").click(function(){
          if($("#dropDown1").is(":visible")){
            $("#dropDown1").hide();
         } else {
@@ -517,7 +517,7 @@ document.documentElement.className = 'js';
 document.documentElement.className = 'js';
 //add the jQuery click/show/hide behaviours:
 
-     $(".reply").click(function(){
+     $(".reply2").click(function(){
          if($("#dropDown2").is(":visible")){
            $("#dropDown2").hide();
         } else {
@@ -530,7 +530,7 @@ document.documentElement.className = 'js';
 document.documentElement.className = 'js';
 //add the jQuery click/show/hide behaviours:
 
-     $(".reply").click(function(){
+     $(".reply3").click(function(){
          if($("#dropDown3").is(":visible")){
            $("#dropDown3").hide();
         } else {
@@ -543,7 +543,7 @@ document.documentElement.className = 'js';
 document.documentElement.className = 'js';
 //add the jQuery click/show/hide behaviours:
 
-     $(".reply").click(function(){
+     $(".reply4").click(function(){
          if($("#dropDown4").is(":visible")){
            $("#dropDown4").hide();
         } else {
@@ -557,7 +557,7 @@ document.documentElement.className = 'js';
 document.documentElement.className = 'js';
 //add the jQuery click/show/hide behaviours:
 
-     $(".reply").click(function(){
+     $(".reply5").click(function(){
          if($("#dropDown5").is(":visible")){
            $("#dropDown5").hide();
         } else {
